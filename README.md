@@ -1,2 +1,2 @@
 # Python-Game-Study
-Beginner learning Python, self study creative
+Beginner learning Python, self study creative.
